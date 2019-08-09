@@ -8,6 +8,7 @@ def longestSubstring(str1,str2):
      else: 
           print ('No longest common sub-string found') 
 if __name__ == "__main__": 
+    count=input()
     str1 = input(" ")
     str2 = input(" ")
 longestSubstring(str1,str2)
