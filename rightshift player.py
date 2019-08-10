@@ -17,6 +17,6 @@ else:
     for i in range(0,len(c)-b):
         d.append(c[i])
     for i in d:
-        print(i,end="")
+        print(i,end=" ")
     for i in f:
         print(i)
