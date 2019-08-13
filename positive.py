@@ -1,9 +1,9 @@
 def main():
-    x=int(input("enter the num"))
+    x=input()
     if (x>0):
-        print("positive")
+        print("Positive")
     elif (x<0):
-        print("negative")
+        print("Negative")
     else:
-        print("zero")
+        print("Zero")
 main()
