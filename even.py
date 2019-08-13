@@ -1,7 +1,9 @@
 def main1():
-    x=int(input("num"))
+    x=input()
     if (x%2==0):
-        print("even")
-    else:
-        print("odd")
+        print("Even")
+    elif:
+        print("Odd")
+    elif:
+        print("invalid")
 main1()
