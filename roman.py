@@ -32,5 +32,4 @@ def romanTonum(str):
             res = res + s1 
             i = i + 1
     return res 
-print("Integer form of Roman Numeral is"), 
-print(romanTonum("VI"))
+print(romanTonum(input()))
